@@ -49,7 +49,7 @@ Create a python file for your Flask app. You can name it whatever you want, just
 Create an html file for your Flask app. You can name it whatever you want, just make sure it has the .html extension and that you have stored it in a directory called templates that is in the same directory as your python file.
 
 You can see a photo of my directory setup for this assignment below: <br/>
-![Sara's directory setup](READMEIms/dirs.png)
+![Sara's directory setup](./static/images/directory.png)
 
 You may use the following packages in this portion, though you may find that some of them are not necessary
  ```
