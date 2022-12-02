@@ -84,7 +84,8 @@ Here is a very basic html [template](https://ryanstutorials.net/html-tutorial/ht
 
 If you write a css file, please make sure that the html file actually uses it. This site discusses [css](https://www.w3schools.com/css/) and how to implement it with html. It should be saved in the templates directory with the HTML file.
 
-![Sara's WebPage](READMEIms/page.png) <br/>
+![alt text](./static/images/web.png)
+ <br/>
 
 
 At this point, if you run your python script like normal ```python <yourfilename>.py``` your code should run, and you should be able to open a web browser (like firefox or chrome)
@@ -160,7 +161,7 @@ You will need to go to Heroku and create an [account](https://hub.docker.com/sig
 
 
 **<p align = "center">General Directions</p>** <br/>
-Once you have a heroku student account, you will need to log into heroku on the command line. Use ```heroku login``` and enter your information when prompted.
+Once you have a heroku student account, you will need to log into heroku on the command line. Use ```git remote add origin https://github.com/Roney-juma/flask_project.git``` and enter your information when prompted.
 
 Next, create a Heroku app using ```heroku create <whatever app name you want>```
 
